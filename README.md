@@ -1,1 +1,1 @@
-# gene-explorer.com
+# gene-explorer
